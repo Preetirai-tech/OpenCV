@@ -1,2 +1,1 @@
-# Beta_secretase_1
-Bioactivity Prediction App
+# OpenCV using python
